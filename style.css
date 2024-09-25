@@ -1,0 +1,31 @@
+h1 {
+    font-size: 48px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2 {
+    color: hsl(0, 50%, 25%);
+}
+
+ol {
+    background-color: grey;
+}
+
+li {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.link {
+    background-color:lab(from color l a b);
+}
+
+.bacon {
+    background-color: hsl(300, 100%, 75%);
+    color: #FFF;
+}
+
+.egg {
+    background-color: hsl(60, 100%, 75%);
+    color: #000;
+}
